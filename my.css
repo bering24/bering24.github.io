@@ -53,3 +53,7 @@ display: block;
 .my:hover .cbr{
 display: none;
 }
+
+ p {
+    color: rgb(49, 151, 116); /* Цвет текста */
+   }
